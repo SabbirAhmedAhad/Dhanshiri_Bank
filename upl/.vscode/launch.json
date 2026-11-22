@@ -1,0 +1,3 @@
+{"version":"0.2.0","configurations":[
+ {"name":"Bank (HTTP :5000)","type":"debugpy","request":"launch","program":"${workspaceFolder}/app.py"},
+ {"name":"Bank (HTTPS :8443)","type":"debugpy","request":"launch","program":"${workspaceFolder}/app.py","args":["--https"]}]}

@@ -1,0 +1,6 @@
+flask>=3.0
+reportlab>=4.0
+cryptography>=42.0
+requests>=2.31
+pyhanko>=0.25
+pyhanko-certvalidator>=0.26

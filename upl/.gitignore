@@ -1,0 +1,9 @@
+certs/*.key
+certs/revoked.json
+.secret
+.fkey
+*.db
+node_modules/
+.venv/
+certs/
+lab.db
